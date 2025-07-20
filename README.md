@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# Twitter(X) Sentiment Analysis
 
 This project performs sentiment analysis on a large dataset of tweets to classify them as either positive or negative. It utilizes Natural Language Processing (NLP) techniques and a Logistic Regression model to achieve this classification.
 
