@@ -66,4 +66,4 @@ The project follows a standard machine learning pipeline:
     * **re (Regular Expressions):** For text cleaning.
     * **Pickle:** For saving and loading the trained model.
 
-* **Jupyter Notebook / Google Colab:** For development and experimentation.
+* **Google Colab:** For development and experimentation.
